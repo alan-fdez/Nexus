@@ -9,9 +9,6 @@ un Synthesizer combina sus hallazgos en un informe final. Si pides comentar
 los hallazgos en un PR de GitHub, el sistema se detiene y espera tu
 aprobación explícita antes de publicar nada.
 
-Arquitectura completa, decisiones de diseño y registro de progreso por fase:
-`[docs/nexus.md](docs/nexus.md)`.
-
 ## Levantar todo con Docker (recomendado)
 
 Requisito: [Docker Desktop](https://www.docker.com/products/docker-desktop/).
